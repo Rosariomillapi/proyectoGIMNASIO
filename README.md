@@ -18,3 +18,16 @@
  [Escenario de casos de usos](https://ucesvirtual-my.sharepoint.com/:x:/g/personal/r_millapi_comunidad_uces_edu_ar/EdGoQyUKFzRFpfQAryOJuqUBxhEbcWsOjB7JKW-cBIPbMQ?e=rdNeNp)
 
 [TajetasCRC](https://drive.google.com/file/d/1q82gGCUhgcrwphYNKUyMSf58UGA9aS1h/view?usp=sharing) 
+
+[Diagrama De Actividades](https://drive.google.com/file/d/1ij7q7-M_28qmoa0G5nJe0TUEylpXxDOp/view?usp=sharing)
+
+### Diagrama De Secuencia
+[Caso De uso 1](https://drive.google.com/file/d/1kOWA4urbu0nqzt-Il1EwyePs_UWgMnYu/view?usp=sharing)
+
+[Caso De Uso 2](https://drive.google.com/file/d/1KS72_F-5u2kpkWr-DeSS9cdnCbTlxtZs/view?usp=sharing)
+
+[Caso De uso 3](https://drive.google.com/file/d/1auvOvi7ZLlYV4YMovxFggDfsPVEzJDKN/view?usp=sharing)
+
+[Caso De Uso 4](https://drive.google.com/file/d/15IGNfOsTHtXvLsQG_IH5UZ1Ynpx7VBGY/view?usp=sharing)
+
+[Caso De Uso 5](https://drive.google.com/file/d/1moEQ8GdDERg1IivG2uOsrPtwysAWdz_p/view?usp=sharing)

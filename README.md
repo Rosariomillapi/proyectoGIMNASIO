@@ -27,7 +27,8 @@
 
 
 
-  - Diagrama de Clases V2![alt text](image.png)
+ - ![Diagrama de clases V2](c:\Users\rosy\Pictures\Screenshots\markdown\diagramadeclasesv2.jpg "Título alternativo")
+
 
 - [Diagrama De Actividades](https://drive.google.com/file/d/1ij7q7-M_28qmoa0G5nJe0TUEylpXxDOp/view?usp=sharing)
 

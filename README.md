@@ -22,7 +22,8 @@
 - DIAGRAMA DE CLASES
   -
 
-  - ![Diagrama de clases V1](c:\Users\rosy\Pictures\Screenshots\markdown\diagramadeclases1.jpg "Título alternativo")
+  - ![Diagrama de clases V1]( ![diagramadeclases1](https://github.com/user-attachments/assets/04acf850-db3b-406f-b1f1-e6c8bc2a9e4c)
+"Título alternativo")
 
 
 

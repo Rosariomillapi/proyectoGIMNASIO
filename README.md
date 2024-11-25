@@ -22,12 +22,12 @@
 - DIAGRAMA DE CLASES
   -
 
-  - ![Diagrama de clases V1]( ![diagramadeclases1](https://github.com/user-attachments/assets/04acf850-db3b-406f-b1f1-e6c8bc2a9e4c)
-"Título alternativo")
+  - ![diagramadeclases1](https://github.com/user-attachments/assets/503a87d2-352e-47bb-9d93-a9bcb4e6f936 "Diagrama de clases V1")
 
 
 
- - ![Diagrama de clases V2](c:\Users\rosy\Pictures\Screenshots\markdown\diagramadeclasesv2.jpg "Título alternativo")
+ - ![diagramadeclasesv2](https://github.com/user-attachments/assets/a0fa3bc0-1049-49b8-8e0c-0e8fc099eeb0 "Diagrama de clases V2")
+
 
 
 - [Diagrama De Actividades](https://drive.google.com/file/d/1ij7q7-M_28qmoa0G5nJe0TUEylpXxDOp/view?usp=sharing)

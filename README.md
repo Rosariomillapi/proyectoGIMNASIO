@@ -47,8 +47,9 @@
 
 [Caso De Uso 5](https://drive.google.com/file/d/1moEQ8GdDERg1IivG2uOsrPtwysAWdz_p/view?usp=sharing)
 
-## **Herramientas Agile:**
-  - [Matriz CLAE](https://docs.google.com/spreadsheets/d/1gSokPshu2Cfl9sHEkeO4o_Iq6iSSaJF4nxHJXcVvOu4/edit?usp=sharing)
+## **Herramientas Agiles:**
+- [MATRIZ CLAE - Sheet3.pdf](https://github.com/user-attachments/files/17912055/MATRIZ.CLAE.-.Sheet3.pdf)
 
-  - [TajetasCRC](https://drive.google.com/file/d/1q82gGCUhgcrwphYNKUyMSf58UGA9aS1h/view?usp=sharing) 
+
+- [TajetasCRC](https://drive.google.com/file/d/1q82gGCUhgcrwphYNKUyMSf58UGA9aS1h/view?usp=sharing) 
 

@@ -25,11 +25,7 @@
   ### **Diagrama De Clases:**
 
 
-  - ![diagramadeclases1 utilizando SOLID](https://github.com/user-attachments/assets/503a87d2-352e-47bb-9d93-a9bcb4e6f936 "Diagrama de clases V1")
-
-
-
- - ![diagramadeclasesv2](https://github.com/user-attachments/assets/a0fa3bc0-1049-49b8-8e0c-0e8fc099eeb0 "Diagrama de clases V2")
+- ![diagramadeclasesV2](https://github.com/user-attachments/assets/32fa2a74-6678-41b8-98ae-24b41df6802f"V2" )
 
 
 

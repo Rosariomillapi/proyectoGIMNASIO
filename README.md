@@ -25,7 +25,8 @@
   ### **Diagrama De Clases:**
 
   ### **Diagrama V2:**
-- ![diagramadeclasesV2](https://github.com/user-attachments/assets/9395cd55-5135-4e35-8532-85e22f7e9dcf)
+- ![diagramadeClasesV2](https://github.com/user-attachments/assets/96ae57db-688d-420d-92e8-e075d9b00bc4)
+
 
 
 

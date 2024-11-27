@@ -64,5 +64,5 @@ El patrón Observer soluciona el problema de mantener sincronizados a los socios
 - Actualizaciones relacionadas con el acceso permitido o denegado al gimnasio.  
 
 ### Documento Explicativo  
-- ([Patrón de Diseño - Observer])
+- [Patrón de Diseño - Observer](https://github.com/Rosariomillapi/proyectoGIMNASIO/blob/main/Patr%C3%B3nDeDise%C3%B1o.md)
 

@@ -52,5 +52,17 @@
 
 - [TajetasCRC](https://drive.google.com/file/d/1q82gGCUhgcrwphYNKUyMSf58UGA9aS1h/view?usp=sharing)
 
-- 
+## Implementación del Patrón Observer  
+
+### Patrón Implementado  
+Se implementó el patrón de diseño OBSERVER, que permite que los objetos observadoras como `Socio` reciban notificaciones  cuando ocurren cambios en los estados de otras clases (como `ControlDeAcceso`, `Membresia`, y `Clase`).  
+
+### Problema Resuelto  
+El patrón Observer soluciona el problema de mantener sincronizados a los socios con los cambios importantes en el sistema:  
+- Notificaciones sobre el estado de su membresía (activa o expirada).  
+- Avisos de cancelaciones o cambios en las clases del gimnasio.  
+- Actualizaciones relacionadas con el acceso permitido o denegado al gimnasio.  
+
+### Documento Explicativo  
+ PatrónDeDiseño.md
 

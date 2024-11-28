@@ -16,4 +16,4 @@ El patrón Observer resuelve estos problemas al permitir sistema que ControlDeAc
 
 
 ## Ejemplo de Código
-- [Codigo del patrón utilizado](https://excalidraw.com/#json=ZefbSjkcdiyN76fVe2DDE,KcQmFBX-pVnrFOzbCk1kSw)
+- [Codigo del patrón utilizado](https://gist.github.com/Rosariomillapi/9483125fa0f2c1da0dd17d51d220579c)

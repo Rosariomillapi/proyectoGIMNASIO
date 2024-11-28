@@ -1,4 +1,4 @@
-# Patrón de Diseño Aplicado: Observer 
+#  Anexo - Aplicación de Patrón de Diseño **Observer**
 ## Propósito y Tipo del Patrón
 **Propósito**: El objetivo de aplicar el patrón Observer en este sistema es resolver el problema de notificar a los socios cuando cambia el estado de su acceso al gimnasio, cuando haya modificaciones en las clases en las que están inscritos, o cuando ocurra algún cambio en su membresía. 
  

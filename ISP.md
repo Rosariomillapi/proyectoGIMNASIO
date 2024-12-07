@@ -14,6 +14,9 @@ El Principio de Segregación de Interfaces (ISP) resuelve este problema dividien
 Así, cada clase solo implementa los métodos que realmente necesita. En el caso de Atención a Consultas, la clase implementa solo la interfaz RecibirConsultaDelSocio, evitando sobrecargarla con métodos irrelevantes.
 Esto mejora la cohesión y permite agregar nuevos tipos de consultas sin modificar las clases existentes.TAmbien Aplicamos este Principio a Registro de acceso
 
+# Estructura de Clases
+![solid20mejor](https://github.com/user-attachments/assets/a247ce2e-a124-4627-b16d-6146a9ab0bd9)
+
 
  # Ejemplo de Código
  ```

@@ -19,7 +19,7 @@ Dividimos los métodos de **Notificación** en clases específicas:
 **NotificacionMembresia:** Para alertas de membresía.
 De forma similar, el principio SRP se aplica a otras clases (Clase, ControlDeAcceso, RegistroDeEquipos,Notificación, y Reserva), asegurando responsabilidades claras y separadas.
 # Estructura de Clases
-![solid17mejor](https://github.com/user-attachments/assets/8b21c61d-46ce-41e6-bdd9-55ce08bc9913)
+![Diagrama de clases v1 Principios solid (srp)](https://github.com/user-attachments/assets/8b21c61d-46ce-41e6-bdd9-55ce08bc9913)
 # Ejemplo De Código:
 ```
 // Clase:Carnet Digital
